@@ -31,7 +31,7 @@ This project is a simple comments section built with React.js, implementing feat
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:AbhinavKRN/comment-Sections.git
    cd comments-section
    ```
 
